@@ -1,5 +1,5 @@
 <h1>
-    Hello, Je suis Damien Chauvet 👋<br/><br/>
+    Hello, Je suis Damien Chauvet (aka DamSha)👋<br/><br/>
 </h1>
 
 <h2>
