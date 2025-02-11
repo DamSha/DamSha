@@ -9,12 +9,12 @@
 <h3>    
    
   <!-- AI Page -->
-  <a href="https://chauvet-damien.net/">
+  <a href="https://damien-chauvet.net/">
     <img src="https://img.shields.io/badge/CV-8A2BE2?style=for-the-badge&logo={Web-Site}&logoColor=white" >
   </a>
     
   <!-- Portfollio -->
-  <a href="https://chauvet-damien.net/">
+  <a href="https://damien-chauvet.net/">
     <img src="https://img.shields.io/badge/Portfollio-25c2a0?style=for-the-badge&logo={Portfollio}&logoColor=white" >
   </a>
   &emsp;&emsp;
