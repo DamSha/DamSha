@@ -9,22 +9,22 @@
 <h3>    
    
   <!-- AI Page -->
-  <a href="https://damien-chauvet.net/">
+  <a target="_blank" href="https://damien-chauvet.net/">
     <img src="https://img.shields.io/badge/CV-8A2BE2?style=for-the-badge&logo={Web-Site}&logoColor=white" >
   </a>
     
   <!-- Portfollio -->
-  <a href="https://damien-chauvet.net/">
+  <a target="_blank" href="https://damien-chauvet.net/">
     <img src="https://img.shields.io/badge/Portfollio-25c2a0?style=for-the-badge&logo={Portfollio}&logoColor=white" >
   </a>
   &emsp;&emsp;
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/damien-chauvet-net/">
+  <a target="_blank" href="https://www.linkedin.com/in/damien-chauvet-net/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" >
   </a>
   
   <!-- GMAIL -->
-  <a href="mailto:chauvet.damien@gmail.com">
+  <a target="_blank" href="mailto:chauvet.damien@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" >
   </a>
   
